@@ -1,2 +1,3 @@
 REQUISITOS
 RF-01: El sistema debe permitir registrar la matrícula de un estudiante en un curso.
+RF-02: El sistema debe validar que el estudiante haya aprobado los prerrequisitos del curso antes de matricularlo.
