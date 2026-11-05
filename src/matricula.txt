@@ -2,4 +2,5 @@ MODULO: Registro de matrícula
 1. Solicitar código del estudiante
 2. Solicitar código del curso
 3. Validar prerrequisitos: si el estudiante no aprobó los cursos prerrequisito, rechazar la matrícula
-4. Registrar la matrícula
+4. Validar duplicado: si el estudiante ya está matriculado en el curso, rechazar el registro
+5. Registrar la matrícula
