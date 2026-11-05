@@ -1,0 +1,4 @@
+MODULO: Registro de matrícula
+1. Solicitar código del estudiante
+2. Solicitar código del curso
+3. Registrar la matrícula
